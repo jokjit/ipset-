@@ -1,4 +1,4 @@
-name: Update CN IP Lists
+name: 更新ip并拆分v4v6
 
 on:
   schedule:
